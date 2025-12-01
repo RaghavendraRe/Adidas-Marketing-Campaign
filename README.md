@@ -1,6 +1,6 @@
 # 📊 Adidas Marketing Campaign Performance Dashboard  
 **Tools:** Power BI, DAX, Excel  
-**Duration:** Feb 2025 – Mar 2025  
+
 
 ## 🔍 Project Overview  
 This project analyzes the performance of Adidas' marketing campaign across products, regions, sales channels, and retailers.  
